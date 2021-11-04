@@ -1,6 +1,6 @@
 body {
-	background-color: black;
-}
+	background-image:url("https://wpamelia.com/wp-content/uploads/2019/02/astronomy-constellation-dark-998641.jpg"); }
+
 
 main {
 	width: 80%;
@@ -82,4 +82,19 @@ img {
 	.description p {
 		margin-left: 0;
 	}
+}
+#toolbarLinks a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    text-align: center !important;
+}
+header h1{
+    text-align: center;
+    font-family: 'Ceviche One', cursive;
+    font-size: 50px;
+    color: white ;
+}
+header{
+    border-bottom:1px solid white;
 }

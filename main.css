@@ -26,6 +26,8 @@ header h1{
     text-decoration: none;
     font-size: large;
     text-align: center !important;
+    margin: 20px;
+
 }
 #showSummary{
     width: 60%;
@@ -38,6 +40,8 @@ h2{
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
-
+header{
+    border-bottom:1px solid white;
+}
 
 
