@@ -88,6 +88,8 @@ img {
     text-decoration: none;
     font-size: large;
     text-align: center !important;
+	margin: 20px;
+
 }
 header h1{
     text-align: center;
