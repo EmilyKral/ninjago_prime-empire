@@ -1,0 +1,34 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image:url("https://wpamelia.com/wp-content/uploads/2019/02/astronomy-constellation-dark-998641.jpg"); 
+    color: white !important;
+}
+img{
+    width: 540px;
+    height: auto;
+    
+}
+header h1{
+    text-align: center;
+}
+
+#showImage img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 2%;
+    border: 1px solid tomato;
+}
+#toolbarLinks a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+}
+#showSummary{
+    width: 60%;
+    margin:auto;
+}
+a{
+    text-align: center;
+}
