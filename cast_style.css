@@ -1,0 +1,21 @@
+#cast_grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+h4{
+    font-family: 'Ceviche One', cursive;
+}
+
+.card{
+    max-width: 18rem;
+    padding: 10px;
+    text-align: center;
+}
+
+.card .card-footer{
+    text-align: left;
+}
+img{
+    object-fit: contain;
+}
