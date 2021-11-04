@@ -1,0 +1,8 @@
+.episode {
+	display: flex;
+}
+
+img {
+	max-width: 50%;
+	object-fit: contain;
+}
