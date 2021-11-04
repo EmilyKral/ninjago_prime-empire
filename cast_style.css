@@ -1,0 +1,26 @@
+@font-face {
+    font-family: shinobi-font-f44974;
+    src: url('https://www.fontspace.com/shinobi-font-f44974');
+}
+
+h4{
+    font-family: shinobi-font-f44974;
+}
+
+#cast_grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.card{
+    max-width: 18rem;
+    padding: 10px;
+    text-align: center;
+}
+
+.card .card-footer{
+    text-align: left;
+}
+img{
+    object-fit: contain;
+}
